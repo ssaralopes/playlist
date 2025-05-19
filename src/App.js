@@ -49,7 +49,7 @@ function App() {
           É trilha sonora de descobertas, de amores intensos, de noites longas — é coração pulsando contra o silêncio.
         </p>
         <a
-          href="https://github.com/seu-usuario"  // substitua pelo seu GitHub real
+          href="https://github.com/ssaralopes"  // substitua pelo seu GitHub real
           target="_blank"
           rel="noopener noreferrer"
           className="rock-button"

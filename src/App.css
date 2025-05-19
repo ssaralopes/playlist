@@ -1,38 +1,215 @@
+body {
+  margin: 0;
+  background-color: #0d0d0d;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #fff;
+}
+
 .App {
+  padding: 2rem;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1 {
+  font-family: 'Cinzel', serif;
+  color: #ffffff;
+  margin-bottom: 3rem;
+  font-size: 3rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-shadow: none; 
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.page-description {
+  max-width: 100%;
+  margin: 0 auto 2rem auto; 
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  font-size: 1.05rem;
+  color: #eee;
+  line-height: 1.6;
+  padding: 0 1rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.description-text {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+
+.final-invite {
+  margin-top: 2rem;
+  font-family: 'Cinzel', serif;
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: #c2b280;
+  text-align: center;
+  line-height: 1.6;
+  letter-spacing: 0.75px;
+  margin-bottom: 4rem; /* aumenta o espaçamento antes dos cards */
+}
+
+.card {
+  background-color: rgba(0, 0, 0, 0.65);
+  border: 1px solid #444;
+  border-radius: 16px;
+  padding: 1.2rem;
+  box-shadow: 0 0 10px rgba(255, 0, 0, 0.15);
+  backdrop-filter: blur(3px);
+  transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.rock-card {
+  background: linear-gradient(145deg, #1c1c1c, #0a0a0a);
+  border-radius: 12px;
+  width: 300px;
+  box-shadow: 0 0 15px #80000088;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.rock-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 25px #d40000aa;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.card-image {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
+.card-content {
+  padding: 1rem;
+  text-align: center;
+}
+
+.rock-card h2 {
+  font-size: 1.4rem;
+  margin-bottom: 0.3rem;
+  color: #ddd;
+  text-transform: uppercase;
+  font-family: 'Cinzel', serif;
+  letter-spacing: 1px;
+  text-shadow: 1px 1px 3px #660000;
+}
+
+.rock-card h3 {
+  font-size: 1rem;
+  color: #c5a765;
+  font-family: 'Cinzel', serif;
+  margin-bottom: 0.6rem;
+  text-shadow: 1px 1px 2px #330000;
+}
+
+.rock-card p {
+  font-size: 0.85rem; 
+  color: #ddd;
+  font-family: 'Cinzel', serif;
+  margin-bottom: 1rem;
+  border-top: 1px solid #2e2a23;
+  padding-top: 0.6rem;
+  line-height: 1.5;
+  font-weight: 500;
+}
+
+.spotify-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  background-color: #1DB954;
+  color: #000;
+  padding: 0.6rem 1.2rem;
+  border-radius: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: background 0.3s ease;
+  font-size: 0.95rem;
+}
+
+.spotify-button:hover {
+  background-color: #1ed760;
+}
+
+.spotify-icon {
+  font-size: 1.2rem;
+  transform: translateY(1px);
+}
+
+.rock-meaning {
+  margin-top: 4rem;
+  padding: 2.5rem 1.5rem;
+  text-align: center;
+}
+
+.rock-meaning h4 {
+  font-family: 'Cinzel', serif;
+  font-size: 1.3rem;
+  color: #c2b280;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-shadow: 1px 1px 3px #000;
+}
+
+.rock-meaning p {
+  color: #eee;
+  font-size: 1rem;
+  max-width: 90%;           /* ocupa mais largura da tela */
+  margin: 0 auto 1.5rem;    /* centraliza horizontalmente */
+  line-height: 1.6;
+  text-align: center; 
+  font-family: 'Cinzel', serif;     /* preenche o espaço horizontal */
+  letter-spacing: 0.2px;
+}
+
+.rock-button {
+  display: inline-flex; /* muda de block para flex */
+  align-items: center;  /* alinha o ícone verticalmente */
+  gap: 0.5rem;          /* espaço entre ícone e texto */
+  padding: 0.7rem 1.6rem;
+  background-color: transparent;
+  border: 2px solid #c2b280;
+  color: #c2b280;
+  font-family: 'Cinzel', serif;
+  font-weight: bold;
+  font-size: 1rem;
+  border-radius: 30px;
+  text-decoration: none;
+  transition: background 0.3s ease, color 0.3s ease, transform 0.2s;
+}
+
+.rock-button:hover {
+  background-color: #c2b280;
+  color: #0d0d0d;
+  transform: scale(1.05);
+}
+
+.dedicatoria {
+  margin-top: 5rem;
+  padding: 2rem 1rem;
+  text-align: center;
+  font-weight: bold;
+  color: #aaa;
+  font-size: 1rem;
+  border-top: 1px solid #333;
+  font-family: 'Cinzel', serif;
 }

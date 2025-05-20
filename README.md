@@ -46,7 +46,7 @@ Acima de tudo, esse projeto me ensinou que desenvolver pode ser uma forma de con
 - **IA: ChatGPT + ferramentas de geração de imagem**
 
 ## 💻 Acesse o projeto
-[![Ver no ar](https://img.shields.io/badge/🔗%20Clique%20aqui%20para%20ver%20no%20ar-800020?style=for-the-badge)](https://ssaralopes.github.io/playlist/)
+[![Ver no ar](https://img.shields.io/badge/🔗%20Clique%20aqui%20para%20ver%20no%20ar-4a0101?style=for-the-badge)](https://ssaralopes.github.io/playlist/)
 
 ## 📸 Imagens do Projeto
 As imagens são representações artísticas feitas com apoio de inteligência artificial e inspiradas em cartas de tarô modernas, adaptadas a cada fase histórica desse gênero que é, também, um eco perpétuo da rebeldia.

@@ -3,7 +3,8 @@
 🎸 Uma jornada visual pela história do Rock — Com playlists selecionadas, visuais gerados por IA e muita autenticidade.
 
 [![GITHUB](https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github)](https://github.com/ssaralopes)
-[![VEJA NO AR](https://img.shields.io/badge/🎧%20Veja%20no%20ar-Spotify-green?style=for-the-badge)](https://ssaralopes.github.io/playlist/)
+[![VEJA NO AR](https://img.shields.io/badge/🎧%20Veja%20no%20ar-Projeto-green?style=for-the-badge)](https://ssaralopes.github.io/playlist/)
+
 
 ## 🎨 Sobre o projeto
 Esse projeto nasceu da vontade de transformar minha paixão por música — especialmente pelo Rock — em algo visual e interativo. Queria ir além de listas de reprodução, quis criar uma jornada que celebrasse as eras mais marcantes desse gênero imortal.  Assim surgiu o **ROCK THROUGH THE AGES:** um site que apresenta a história do Rock and Roll por meio de playlists cuidadosamente curadas,  com uma estética que também dialoga com o místico, o simbólico e o atemporal.

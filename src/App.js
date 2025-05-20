@@ -23,7 +23,7 @@ function App() {
       <div className="card-container">
         {rockEras.map((era, index) => (
           <div className="rock-card" key={index}>
-            <img src={era.image} alt={era.title} className="card-image" />
+            <img src={`${process.env.PUBLIC_URL}${era.image}`} alt={era.title} className="card-image" />
             <div className="card-content">
               <h2>{era.title}</h2>
               <h3 className="subtitle">{era.subtitle}</h3>

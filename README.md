@@ -46,8 +46,7 @@ Acima de tudo, esse projeto me ensinou que desenvolver pode ser uma forma de con
 - **IA: ChatGPT + ferramentas de geração de imagem**
 
 ## 💻 Acesse o projeto
-[**Clique aqui para ver no ar**](https://ssaralopes.github.io/playlist/)
-
+[![Ver no ar](https://img.shields.io/badge/🔗%20Clique%20aqui%20para%20ver%20no%20ar-800020?style=for-the-badge)](https://ssaralopes.github.io/playlist/)
 
 ## 📸 Imagens do Projeto
 As imagens são representações artísticas feitas com apoio de inteligência artificial e inspiradas em cartas de tarô modernas, adaptadas a cada fase histórica desse gênero que é, também, um eco perpétuo da rebeldia.
@@ -78,10 +77,12 @@ npm start
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes e sinta-se à vontade para usar e modificar!
 
 
-## 📫 Contato
-Me encontre no [LinkedIn](https://www.linkedin.com/in/ssaralopes/) ou explore mais projetos no [meu GitHub](https://github.com/ssaralopes).
+## 💌 Contato
+Me encontre no LinkedIn ou explore mais projetos no meu GitHub:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssaralopes/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssaralopes)
 
-
+---
 Feito por Sara Lopes
 
 

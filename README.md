@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssaralopes)
 [![no ar](https://img.shields.io/badge/no%20ar-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://ssaralopes.github.io/playlist/)
 
-
+---
 
 ## 🎨 Sobre o projeto
 Esse projeto nasceu da vontade de transformar minha paixão por música — especialmente pelo Rock — em algo visual e interativo. Queria ir além de listas de reprodução, quis criar uma jornada que celebrasse as eras mais marcantes desse gênero imortal.  Assim surgiu o **ROCK THROUGH THE AGES:** um site que apresenta a história do Rock and Roll por meio de playlists cuidadosamente curadas,  com uma estética que também dialoga com o místico, o simbólico e o atemporal.

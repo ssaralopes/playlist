@@ -7,13 +7,13 @@ import { FaSpotify, FaGithub } from 'react-icons/fa'; // Spotify icon
 function App() {
   return (
     <div className="App">
-      <h1>ROCK THROUGH THE AGES⚡</h1>
+      <h1>ROCK THROUGH THE AGES</h1>
       
       <div className="page-description">
         <p className="description-text">
           Uma jornada visual pela história do Rock — um tributo às eras, aos sons e aos sentimentos que moldaram gerações. 
           De guitarras estridentes a hinos de resistência, celebramos o legado de um gênero que nunca se cala. 
-          Este projeto é mais que memória: é uma ode à alma rebelde da música, é a história contada através de Playlists! 🎸✨
+          Este projeto é mais que memória: é uma ode à alma rebelde da música, é a história contada através de Playlists! 🎸
         </p>
         <p className="final-invite">
           Explore agora as eras que fizeram do Rock and Roll um eterno grito de Liberdade: 🤘
@@ -60,7 +60,7 @@ function App() {
       </div>
 
       <footer className="dedicatoria">
-        <p>para aqueles que se encontraram no caos do rock’n’roll. ✨</p>
+        <p>para aqueles que se encontraram no caos do rock’n’roll.⚡</p>
       </footer>
     </div>
     

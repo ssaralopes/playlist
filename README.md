@@ -3,7 +3,7 @@
 🎸 Uma jornada visual pela história do Rock — Com playlists selecionadas, visuais gerados por IA e muita autenticidade.
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssaralopes)
-[![Visualizar Projeto](https://img.shields.io/badge/%20Visualizar%20Projeto-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://ssaralopes.github.io/playlist/)
+[![NO AR](https://img.shields.io/badge/%20Visualizar%20Projeto-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://ssaralopes.github.io/playlist/)
 
 
 ## 🎨 Sobre o projeto

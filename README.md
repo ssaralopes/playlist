@@ -84,7 +84,7 @@ Me encontre no LinkedIn ou explore mais projetos no meu GitHub:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssaralopes)
 
 ---
-Feito por Sara Lopes
+Desenvolvido por Sara Lopes.
 
 
 
